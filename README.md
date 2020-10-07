@@ -1,5 +1,5 @@
 # Banco-de-dados-Mysql
-Criação do MER , com os scripts de criação da tabelas e inserindo os valores com scripts SQL e por meio de codigo python. 
+Criação de scripts de criação da tabelas e inserindo os valores com scripts SQL e por meio de codigo python. 
 
 -
 
