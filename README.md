@@ -1,6 +1,8 @@
 # Banco-de-dados-Mysql
 Criação de scripts de criação da tabelas e inserindo os valores com scripts SQL e por meio de codigo python. 
 
+## A melhorias que podem ser feitas.
+
 -
 
 Requerimentos
