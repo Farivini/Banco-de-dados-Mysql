@@ -11,7 +11,7 @@ def conectar():
             db ='empresa_tech',
             host ='localhost',
             user ='root',
-            passwd ='gael@2718'
+            passwd ='*****'
              )
             return conn
     except MySQLdb.Error as e:
